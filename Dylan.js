@@ -1,5 +1,10 @@
 let list = [];
 
+
+//These are my changes to your code!!!!
+
+
+
 let toDo = prompt('What would you like to do?');
 
 while(toDo !==  'quit'){
@@ -30,6 +35,8 @@ if(toDo === 'delete'){
 }
 
 toDo = prompt('What would you like to do?');
+
+
 
 
 }
