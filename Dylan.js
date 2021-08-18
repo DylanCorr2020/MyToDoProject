@@ -1,3 +1,4 @@
+// This is Joe's change
 let list = [];
 
 let toDo = prompt('What would you like to do?');
